@@ -1,6 +1,6 @@
 # Storage Scripts
 
-This is a collection of scripts to condense the high-text-volume output of SMART and btrfs commands into a condense, actionable report. [See this article for a detailed walkthrough](https://markmcb.com/2020/01/25/simplified-smart-and-btrfs-reporting/).
+This is a collection of scripts to condense the high-text-volume output of SMART and btrfs commands into a condense, actionable report. [See this article for a detailed walkthrough](https://markmcb.com/cli/simplified-smart-and-btrfs-reporting/).
 
 ## Example Output
 
